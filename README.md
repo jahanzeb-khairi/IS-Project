@@ -4,14 +4,14 @@
 
 This project is a **Privacy-Aware Digital Database System**, developed as a semester project for the **Information Security course** at **FAST-NUCES, Karachi**. It is designed to allow **viewing**, **insertion**, **updating**, and **deletion** of data records in a secure and consent-driven environment.
 
-The system incorporates **authentication**, **access control**, **audit logging**, and **user privacy features**, ensuring both ethical and secure handling of user and admin data.
+The system incorporates **authentication**, **role-based access control**, **audit logging**, and **user privacy features**, ensuring both ethical and secure handling of user and admin data.
 
 ---
 
 ## 👥 Group Members
 
 - **Jahanzeb Khairi (22K-4746)**
-- **S. M. Murtaza Rizvi (22K-4754)**
+- **Murtaza Rizvi (22K-4754)**
 - **M. Yahya Khan (22K-4690)**
 
 ---
@@ -53,8 +53,7 @@ The system incorporates **authentication**, **access control**, **audit logging*
 ```plaintext
 .
 ├── code.py                  # Main Python implementation
-├── IS Presentation.pptx     # Course presentation on privacy and implementation
-├── audit.txt                # Logs of all database actions with timestamps
+├── audit.txt                # Logs of all database actions with  timestamps
 ├── consent.txt              # Logs of user consents for each action
 ├── admin.txt                # Registered admin usernames
 ├── special.txt              # Registered special user usernames
