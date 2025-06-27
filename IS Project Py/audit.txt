@@ -1,0 +1,4 @@
+User: yahya Action: Insert product Details: Product: lolypop Date: 2024-11-27
+User: yahya Action: Update product Details: Product: lolypop Date: 2024-11-27
+User: yahya Action: Delete product Details: Product: lolypo Date: 2024-11-27
+User: box Action: Insert product Details: Product: apples Date: 2024-11-27
